@@ -29,6 +29,7 @@ int main(void)
 					putchar(',');
 					putchar(' ');
 
+
 				}
 
 				u++;
@@ -36,7 +37,6 @@ int main(void)
 			d++;
 			position_u++;
 			u = position_u;
-
 		}
 		position_u = position_uu;
 		position_u++;
