@@ -14,7 +14,6 @@ int main(void)
 	/* your code goes there */
 	while (i > 0)
 	{
-
 		putchar(ch);
 		ch--;
 		i--;
@@ -22,5 +21,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
 
