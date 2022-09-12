@@ -1,10 +1,12 @@
 #include<stdio.h>
 #include <stdlib.h>
 
-/**main - Entry point
+/*
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char ch = 'z';
@@ -12,6 +14,7 @@ int main(void)
 	/* your code goes there */
 	while (i > 0)
 	{
+
 		putchar(ch);
 		ch--;
 		i--;
@@ -19,4 +22,5 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
 
