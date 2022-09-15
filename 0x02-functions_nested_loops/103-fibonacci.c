@@ -22,8 +22,6 @@ int main(void)
 			sum += j;
 		}
 
-		
-
 		l = j + k;
 		j = k;
 		k = l;
