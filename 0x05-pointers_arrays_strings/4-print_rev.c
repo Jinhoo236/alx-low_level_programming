@@ -3,8 +3,8 @@
 #include "main.h"
 
 /**
- *print_rev - prints a strings in reverse order
- *@s:  String to reverse 
+ *print_rev - Prints a string in reverse order
+ *@s: String to reverse
  *Return: Nothing
  */
 
