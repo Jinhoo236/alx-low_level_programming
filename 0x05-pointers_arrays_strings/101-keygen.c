@@ -6,11 +6,12 @@
 /**
  * main - entry point
  *
- * Return: generated password
+ * main - entry point
  */
 
 int main(void)
 {
+
 	char c;
 	int x;
 
@@ -22,8 +23,7 @@ int main(void)
 		putchar(c);
 	}
 	putchar(2772 - x);
-}
 
-return (0);
+	return (0);
 }
 
